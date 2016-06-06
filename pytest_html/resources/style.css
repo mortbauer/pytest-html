@@ -140,3 +140,13 @@ div.image img {
 	/*finish triangle*/
 	border-top: 8px solid #999;
 }
+
+.collapsed {
+    display: none;
+}
+
+.collapsed.in {
+    display: block;
+}
+
+
